@@ -14,5 +14,3 @@ Hello, I'm Ege. I am 17 years old. I have been dealing with software, electronic
 
 ---
 [![](https://visitcount.itsvg.in/api?id=egekanuroglu&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
