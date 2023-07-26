@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
+  </a>
+ <br>
+ <img src="https://profile-counter.glitch.me/{egekanuroglu}/count.svg" align="right"/>
+ <br>
+</p>
+
 # 💫 About Me:
 Hello, I'm Ege. I am 17 years old. I have been dealing with software, electronics and mechanics for 3 years, my main field being software. Although I have advanced knowledge of Python and Arduino languages, I have made projects by blending these software languages ​​on my own. I have basic electronics knowledge. In mechanical work, I do 3D control with SolidWorks program. I have been dealing with 3D printers for 2 years.
 
