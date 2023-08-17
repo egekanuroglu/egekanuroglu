@@ -8,14 +8,16 @@
     <br>
     </p>
 
-    <a align="left">
+    <a href="" align="left">
         <img alt="GitHub Followers" src="https://img.shields.io/github/followers/egekanuroglu?style=social"> 
     </a>
     &nbsp;
-    <a align="left">
+    <a href="" align="left">
         <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/egekanuroglu?style=social">
     </a>
 </div>
+
+
 
 <h1 align="left">
     💫 About Me
