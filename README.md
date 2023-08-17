@@ -9,6 +9,7 @@
     </p>
 </div>
 
+<p>
 <a href="" align="left">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/egekanuroglu?style=social"> 
 </a>
@@ -16,6 +17,7 @@
 <a href="" align="left">
     <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/egekanuroglu?style=social">
 </a>
+</p>
 
 <h1 align="left">
     💫 About Me
