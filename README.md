@@ -8,10 +8,13 @@
     <br>
     </p>
 
-    <div align = "left">
-        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/egekanuroglu?style=social"> &nbsp;
+    <a align="left">
+        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/egekanuroglu?style=social"> 
+    </a>
+    &nbsp;
+    <a align="left">
         <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/egekanuroglu?style=social">
-    </div>
+    </a>
 </div>
 
 <h1 align="left">
