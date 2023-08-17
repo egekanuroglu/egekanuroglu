@@ -1,11 +1,18 @@
-<p align="right">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
-    </a>
-   <br>
-   <img src="https://profile-counter.glitch.me/{egekanuroglu}/count.svg" align="right"/>
-   <br>
-</p>
+<div>
+    <p align="right">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
+        </a>
+        <br>
+    <img src="https://profile-counter.glitch.me/{egekanuroglu}/count.svg" align="right"/>
+    <br>
+    </p>
+
+    <div align = "left">
+        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/egekanuroglu?style=social"> &nbsp;
+        <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/egekanuroglu?style=social">
+    </div>
+</div>
 
 <h1 align="left">
     💫 About Me
@@ -25,7 +32,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="">
     </a>
     <a href="https://github.com/egekanuroglu">
-        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white" alt="">
     </a>
 </p>
 
